@@ -1,1 +1,1 @@
-# gitrini-slack-alarm-task
+깃린이코스 마지막 과제 실습 파일입니다.
